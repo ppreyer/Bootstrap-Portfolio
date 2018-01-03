@@ -3,6 +3,8 @@
 ## Overview
 This is my first ever application created to display completed programming projects. The page is created from scratch without the aid of a CSS framework.  This repo is similar to the Basic-Portfolio application, but uses Twitter Bootstrap to enhance the front-end experience.  The website consists of three pages: 1. About 2. Portfolio 3. Contact
 
+Please preview the page here: https://ppreyer.github.io/Responsive-Portfolio/
+
 ## About
 The About page provides a brief overview of my professional and personal intersts.  You also click to view my Github, Linkedin, and Stack Overflow pages.
 
